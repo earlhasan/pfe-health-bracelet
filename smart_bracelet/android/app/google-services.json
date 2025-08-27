@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766183131411",
+    "project_id": "smart-bracelet-project-2025",
+    "storage_bucket": "smart-bracelet-project-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766183131411:android:36cca82df9fcc3d99df2e6",
+        "android_client_info": {
+          "package_name": "com.flutterflow.smartBracelet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoIxGNZ8V0DYhVzjgO5UGty0D_6ZC9hcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
